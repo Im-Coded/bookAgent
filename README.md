@@ -234,8 +234,6 @@ https://x.com/BookAgent_
 
 ## 🌟 Acknowledgments
 
-- OpenAI for GPT models
-- Ethereum Foundation
 - Twitter API team
 - All our amazing contributors
 

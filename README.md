@@ -229,7 +229,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-[Your Name - [@twitter_handle](https://x.com/BookAgent_)](https://x.com/BookAgent_)
+https://x.com/BookAgent_
 
 
 ## 🌟 Acknowledgments

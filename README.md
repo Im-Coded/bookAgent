@@ -91,10 +91,6 @@ cargo build --release
 TWITTER_API_KEY=your_key
 TWITTER_API_SECRET=your_secret
 
-# Ethereum Configuration
-ETH_RPC_URL=your_rpc
-CONTRACT_ADDRESS=your_contract
-
 # AI Configuration
 MODEL_CHECKPOINT=path/to/model
 ```

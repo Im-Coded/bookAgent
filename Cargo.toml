@@ -1,0 +1,20 @@
+[package]
+name = "crypto_ai_agent"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <your.email@example.com>"]
+description = "An AI-powered crypto trading and social media bot"
+
+[dependencies]
+ethers = { version = "2.0", features = ["full"] }
+tokio = { version = "1.0", features = ["full"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+async-trait = "0.1"
+thiserror = "1.0"
+tracing = "0.1"
+dotenv = "0.15"
+
+[dev-dependencies]
+tokio-test = "0.4"
+mock-it = "0.3" 

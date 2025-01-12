@@ -2,7 +2,7 @@
   <img src="./bookAgentBanner.png" alt="BookAgent Banner" width="100%">
 </p>
 
-# 📚 BookAgent AI
+# 📚 Smart Book Ai
 
 ## 🎯 Overview
 

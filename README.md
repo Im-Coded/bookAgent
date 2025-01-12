@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./bookAgentBanner.png" alt="BookAgent Banner" width="100%">
+  <img src="./smartbookbanner.png" alt="BookAgent Banner" width="100%">
 </p>
 
 # 📚 Smart Book Ai

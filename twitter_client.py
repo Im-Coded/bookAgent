@@ -17,7 +17,7 @@ class TwitterBot:
     def post_tweet(self, message: str) -> bool:
         try:
             response = self.client.create_tweet(text=message)
-            print(f"Tweet posted successfully with id: {response.data['id']}")
+            print(f"Tweet posted successfully with iD: {response.data['id']}")
             return True
         except Exception as e:
             print(f"Error while posting tweet: {e}")

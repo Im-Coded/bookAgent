@@ -23,7 +23,6 @@ class MarketAnalysisNetwork(nn.Module):
         # Apply attention mechanism
         attn_output, _ = self.attention(lstm_out, lstm_out, lstm_out)
         
-        # Feature extraction and prediction
         x = F.relu(self.fc1(attn_output[:, -1, :]))
         x = self.dropout(x)
         x = F.relu(self.fc2(x))

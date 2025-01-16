@@ -1,5 +1,4 @@
 from ai_agent.agent import AIAgent
-import time
 
 def main():
     agent = AIAgent()

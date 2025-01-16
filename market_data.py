@@ -15,7 +15,6 @@ class MarketDataFetcher:
             hist = ticker.history(period=period, interval=interval)
             data.append(self._process_ticker_data(hist))
             
-        return np.concatenate(data, axis=1)
     
     def _process_ticker_data(self, df: pd.DataFrame) -> np.ndarray:
         # Normalize data

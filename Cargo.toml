@@ -1,9 +1,7 @@
 [package]
-name = "crypto_ai_agent"
+name = "MoodFi All agent"
 version = "0.1.0"
 edition = "2021"
-authors = ["Your Name <your.email@example.com>"]
-description = "An AI-powered crypto trading and social media bot"
 
 [dependencies]
 ethers = { version = "2.0", features = ["full"] }

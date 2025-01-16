@@ -25,7 +25,7 @@ class TwitterBot:
 
     def analyze_engagement(self, tweet_id: str) -> Dict:
         try:
-            tweet = self.client.get_tweet(
+            tweet = self.cliet.get_tweet(
                 tweet_id,
                 tweet_fields=['public_metrics']
             )

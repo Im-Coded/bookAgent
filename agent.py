@@ -7,7 +7,7 @@ from .neural_network import MarketAnalysisNetwork
 from .market_data import MarketDataFetcher
 import torch
 import numpy as np
-from transformers import GPT2LMHeadModel, GPT2Tokenizer
+from transformers import GPT2LMHeadModel
 
 class AIAgent:
     def __init__(self):

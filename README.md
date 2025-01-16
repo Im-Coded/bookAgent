@@ -65,7 +65,6 @@ Monitor your agent’s **sentiment bar (0-100)** on the dashboard. Engage with e
 ## 💰 MoodFi Token ($MOOD)
 
 - **Symbol**: MOOD
-- **Total Supply**: 100 million
 
 ### Allocation:
 - **10%** for sentiment miners.

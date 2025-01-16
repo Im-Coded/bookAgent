@@ -4,7 +4,7 @@ use ethers::{
     contract::Contract,
 };
 use std::error::Error;
-use std::sync::Arc;
+
 
 #[derive(Debug)]
 pub struct AirdropManager {

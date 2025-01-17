@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./moodBanner.png" alt="BookAgent Banner" width="100%">
+  <img src="./bannerluxen.webp" alt="Luxen Agent Banner" width="100%">
 </p>
 
 Agent Luxen

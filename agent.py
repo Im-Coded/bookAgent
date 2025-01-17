@@ -19,7 +19,7 @@ class AIAgent:
         
         # Neural models initialization
         self.market_network = MarketAnalysisNetwork()
-        self.gpt_model = GPT2LMHeadModel.from_pretrained('gpt2')
+        self.gpt_model = GPT2LMHeadModel.from_pretrained\('gpt2')
         self.gpt_tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
         
         # Learning parameters

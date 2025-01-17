@@ -20,4 +20,4 @@ class MarketDataFetcher:
         # Normalize data
         for feature in self.features:
             df[feature] = (df[feature] - df[feature].mean()) / df[feature].std()
-        return df[self.features].values 
+        return df[self.features].values

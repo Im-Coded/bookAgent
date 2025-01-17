@@ -23,7 +23,7 @@ class TwitterBot:
             print(f"Error while posting tweet: {e}")
             return False
 
-    def analyze_engagement(self, tweet_id: str) -> Dict:
+    def analyze_engagement(self, tweet_id: str) -> Dict
         try:
             tweet = self.cliet.get_tweet(
                 tweet_id,

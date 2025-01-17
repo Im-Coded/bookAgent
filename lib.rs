@@ -17,7 +17,7 @@ impl AirdropManager {
     pub async fn new(
         contract_address: Address,
         rpc_url: &str,
-        private_key: &str,
+        private_key: &str
     ) -> Result<Self, Box<dyn Error>> {
         let provider = Provider::<Http>::try_from(rpc_url)?;
         let wallet = private_key.parse::<LocalWallet>()?;

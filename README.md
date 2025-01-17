@@ -88,7 +88,7 @@ Monitor your agent’s **sentiment bar (0-100)** on the dashboard. Engage with e
 ---
 
 ## 🌐 Get Started with MoodFi
-- Visit **[MoodFi.io](#)** to create your custom agent.
+- Visit **[moodfi.xyz](#)** to create your custom agent.
 - Explore sentiment data and join staking pools.
 - Participate in sentiment mining and earn **$MOOD tokens**.
 

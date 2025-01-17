@@ -15,4 +15,4 @@ dotenv = "0.15"
 
 [dev-dependencies]
 tokio-test = "0.4"
-mock-it = "0.3" 
+mock-it = "3" 

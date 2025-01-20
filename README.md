@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./bannerluxen.webp" alt="Luxen Agent Banner" width="100%">
+  <img src="./tsvbanner.jpg" alt="Trump Sentimental Reserve" width="100%">
 </p>
 
 # 🇺🇸 TRUMP SENTIMENTAL RESERVE 🦅

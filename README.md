@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./tsvbanner.jng" alt="Trump Sentimental Reserve" width="100%">
+  <img src="./tsvbanner.png alt="Trump Sentimental Reserve" width="100%">
 </p>
 
 # 🇺🇸 TRUMP SENTIMENTAL RESERVE 🦅

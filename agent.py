@@ -56,7 +56,6 @@ class AIAgent:
         )
         
         return self.gpt_tokenizer.decode(outputs[0])
-        
     def schedule_tasks(self):
         schedule.every().day.at("10:00").do(self.daily_tweet)
         schedule.every().week.do(self.weekly_airdrop)

@@ -13,6 +13,6 @@ thiserror = "1.0"
 tracing = "0.1"
 dotenv = "0.15"
 
-[dev-dependencies]
+[dev-dependencies
 tokio-test = "0.4"
 mock-it = "3" 

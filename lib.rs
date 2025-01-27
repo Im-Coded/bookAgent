@@ -12,7 +12,6 @@ pub struct AirdropManager {
     provider: Provider<Http>,
     wallet: LocalWallet,
 }
-
 impl AirdropManager {
     pub async fn new(
         contract_address: Address,

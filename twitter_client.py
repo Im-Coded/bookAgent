@@ -1,4 +1,4 @@
-from tweepy import Client, OAuth1UserHandler, Tweet
+dfrom tweepy import Client, OAuth1UserHandler, Tweet
 import os
 from dotenv import load_dotenv
 from typing import Dict, Optional

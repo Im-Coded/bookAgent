@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./zephyrbanner.png alt="Deep-Zephyr" width="100%">
+  <img src="./zephyrbanner.png" alt="Deep-Zephyr" width="100%">
 </p>
 
 # Deep Zephyr 🌊

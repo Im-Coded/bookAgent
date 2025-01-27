@@ -26,4 +26,4 @@ class MarketAnalysisNetwork(nn.Module):
         x = F.relu(self.fc1(attn_output[:, -1, :]))
         x = self.dropout(x)
         x = F.relu(self.fc2(x))
-        return torch.sigmoid(self.fc3(x))
+        return torch.sigmoid(self.fc3(x)
